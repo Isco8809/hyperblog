@@ -1,12 +1,21 @@
 #body
 {
     text-align: center;
+    font-family: "Arial";
     font-size: 16px;
-    margin: auto;
-    padding: 0%;
+    margin: 0;
+    padding: 0;
 }
 #container
 {
+    width: 70%;
     text-align: left;
     color: black;
+    border: 1px solid gray;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
